@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">serieApp</string>
+    <string name="title">Euphoria App</string>
+
+    <string name="datos">Datos</string>
+    <string name="sinopsis">Euphoria, sigue a «un grupo de estudiantes de secundaria mientras navegan por las drogas, el sexo, la prostitución, la identidad, el trauma, las redes sociales, el amor y la amistad.</string>
+    <string name="characters">Personajes</string>
+
+    <string name="seasons">Temporadas: 1</string>
+    <string name="episodes">Episodios: 8</string>
+    <string name="second_season">Fecha de la segunda temporada: December 6, 2020</string>
+
+    <string name="rue">Zendaya como Rue Bennett</string>
+    <string name="lexi">Maude Apatow como Lexi Howard</string>
+    <string name="maddy">Alexa Demie como Maddy Perez</string>
+    <string name="nate">Jacob Elordi como Nate Jacobs</string>
+    <string name="kat">Barbie Ferreira como Kat Hernandez</string>
+    <string name="jules">Hunter Schafer como Jules Vaughn</string>
+    <string name="cris">Algee Smith como Christopher McKay</string>
+    <string name="cassie">Sydney Sweeney como Cassie Howard</string>
+</resources>
